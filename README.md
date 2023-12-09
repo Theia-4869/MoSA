@@ -1,6 +1,6 @@
 # Mixture of Sparse Adapters
 
-This repository contains the official PyTorch implementation for Visual Prompt Tuning.
+This repository contains the official PyTorch implementation for MoSA.
 
 ![MoSA_demo](figure/demo.gif)
 
